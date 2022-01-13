@@ -15,10 +15,8 @@ be decoded by this program only._)
 
   KeySpace is data structure that contain keys.\n
   We need three argument from user while creating the object
-    
-    1. 'key' - This is for how many pixel we skip 
-    2. 'start_x' - Starting position of column pixel 
-    3. 'start_y' - Starting position of row pixel
+   
+    - **key**  Key contain Alpha, Numeric and Symbol
     
     Note - This KeySpace is private to sender as well as reciever
 
