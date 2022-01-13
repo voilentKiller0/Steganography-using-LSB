@@ -16,7 +16,7 @@ be decoded by this program only._)
   KeySpace is data structure that contain keys.\n
   We need three argument from user while creating the object
    
-    - **key**  Key contain Alpha, Numeric and Symbol
+    'key' - Key contain Alpha, Numeric and Symbol
     
     Note - This KeySpace is private to sender as well as reciever
 
