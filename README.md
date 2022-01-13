@@ -13,7 +13,8 @@ be decoded by this program only._)
 
 ### KeySpace
 
-  KeySpace is data structure that contain keys.\n
+  KeySpace is data structure that contain keys.
+  
   We need three argument from user while creating the object
    
     'key' - Key contain Alpha, Numeric and Symbol
